@@ -1,3 +1,0 @@
-interface SwimBehavior {
-    void swim();
-}
